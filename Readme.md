@@ -5,7 +5,7 @@ I've chosen the second project: Neural retrieval model - Document ranking.
 The report can be found [here](report.pdf). The presentation can be found [here](presentation.pdf).
 # Tutorials
 To get started, I read the tutorials that were mentioned in the assignment. The extra documentation for this can be found in `tutorials.ipynb`.
-Next, I took a look at the SBERT documentation. The extra documentation for this can be found in `sbert-doc.ipynb`.
+Next, I took a look at the SBERT documentation. The extra documentation for this can be found in [sbert-doc.ipynb]().
 Finally, after all those tutorials, my own implementation and code can be found in `experiments.ipynb`.
 
 # Data
