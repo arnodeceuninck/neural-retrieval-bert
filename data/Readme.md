@@ -6,4 +6,4 @@ Put all the data csv's in this folder:
 - test_data.csv: Used to produce output for your final submission. 
 - training_data.csv: Collection of past queries that were retrieved with Lucene.
 
-Download links for the csv's can be found in the assignment.
+Download links for the csv's can be found in the assignment. An example of what the files should look like (first 5 lines of each files) can be found in the data_head folder. 
